@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Joel Gramajo 202008025 Lab 13 repaso segundo parcial n1", "Joel Gramajo 202008025 Lab 13 repaso segundo parcial n1.csproj", "{78697CBE-362E-4C22-B116-9DE084FF552A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78697CBE-362E-4C22-B116-9DE084FF552A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78697CBE-362E-4C22-B116-9DE084FF552A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78697CBE-362E-4C22-B116-9DE084FF552A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78697CBE-362E-4C22-B116-9DE084FF552A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4046F47A-ABAE-47FD-821E-E5008F1DFB34}
+	EndGlobalSection
+EndGlobal
