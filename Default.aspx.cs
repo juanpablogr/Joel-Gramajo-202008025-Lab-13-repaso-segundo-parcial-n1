@@ -16,7 +16,6 @@ namespace Joel_Gramajo_202008025_Lab_13_repaso_segundo_parcial_n1
 
         protected void Page_Load(object sender, EventArgs e)
         {
-            MaintainScrollPositionOnPostBack = true;
             LoadList();
             if (!IsPostBack)
             {

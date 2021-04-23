@@ -19,6 +19,7 @@ namespace Joel_Gramajo_202008025_Lab_13_repaso_segundo_parcial_n1
         public DateTime Fecha_de_nacimiento { get => fecha_de_nacimiento; set => fecha_de_nacimiento = value; }
         public int Edad { get => this.CalcularEdad(); set => edad = this.CalcularEdad(); }
 
+
         public Persona()
         {
 
